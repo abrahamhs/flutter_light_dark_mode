@@ -1,4 +1,4 @@
-# light_dark_mode
+# flutter_light_dark_mode
 
 A new Flutter project.
 
